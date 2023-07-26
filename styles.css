@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.p1,.p3{
+	color:#00f;
+    background-color:#eee;
+}
+.p2,.p4{
+	font-size:65%;
+}
